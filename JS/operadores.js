@@ -16,6 +16,10 @@ console.log("el resultado de la resta es: " + resultado)
 
 //multiplicacion
 resultado = num1 * num2
-console.log("el resultado de la multiplicacion es: " +resultado)
+console.log("el resultado de la multiplicacion es: " + resultado)
+
+//division 
+resultado = num1 / num2
+console.log("el resultado de la divison es: "+ resultado)
 
 
